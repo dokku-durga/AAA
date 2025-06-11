@@ -8,3 +8,11 @@ public class GFG {
         System.out.println("Hello World");
     }
 }
+Program begins with a call to main() method
+    public static void main(String args[])
+    {
+      
+          // Prints "Hello World" 
+        System.out.println("Hello");
+    }
+}
